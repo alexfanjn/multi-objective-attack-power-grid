@@ -49,7 +49,7 @@ python risk_graph.py
 
 
 ## Cite
-For the details, you can take a look at the [paper]<https://ieeexplore.ieee.org/abstract/document/9235529>.
+For the details, you can take a look at the [paper](https://ieeexplore.ieee.org/abstract/document/9235529).  
 If you find this work is helpful, please cite our paper. Thank you.
 
 ```
