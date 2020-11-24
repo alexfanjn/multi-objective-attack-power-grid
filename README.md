@@ -46,3 +46,18 @@ python risk_graph.py
 - **RG.py**: implements the relevant functions of risk-graph attack methods.
 - **risk_graph.py**: implements the risk-graph method.
 - **sinobject_ga.py**:  implements the single-objective genetic algorithm.
+
+
+## Cite
+For the details, you can take a look at the [paper]<https://ieeexplore.ieee.org/abstract/document/9235529>.
+If you find this work is helpful, please cite our paper. Thank you.
+
+```
+@article{fang2020revealing,
+  title={Revealing Structural and Functional Vulnerability of Power Grids to Cascading Failures},
+  author={Fang, Junyuan and Wu, Jiajing and Zheng, Zibin and Chi, K Tse},
+  journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems},
+  year={2020},
+  publisher={IEEE}
+}
+```
