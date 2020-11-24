@@ -55,7 +55,7 @@ If you find this work is helpful, please cite our paper. Thank you.
 ```
 @article{fang2020revealing,
   title={Revealing Structural and Functional Vulnerability of Power Grids to Cascading Failures},
-  author={Fang, Junyuan and Wu, Jiajing and Zheng, Zibin and Chi, K Tse},
+  author={Fang, Junyuan and Wu, Jiajing and Zheng, Zibin and Tse, Chi K.},
   journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems},
   year={2020},
   publisher={IEEE}
