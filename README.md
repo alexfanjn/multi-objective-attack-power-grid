@@ -37,7 +37,7 @@ python risk_graph.py
 ## Code Description
 
 - **Attack.py**: implements the normal attack of a given attack list.
-- **Graph.p**y: implements the basic functions of power grids.
+- **Graph.py**: implements the basic functions of power grids.
 - **individual.py**: defines the individuals in evolution algorithms.
 - **LDV_attack.py**: implements the LDV attack method.
 - **nsga2.py**:  implements the NSGA-PG attack method.
