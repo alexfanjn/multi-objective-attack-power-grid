@@ -53,11 +53,13 @@ For the details, you can take a look at the [paper](https://ieeexplore.ieee.org/
 If you find this work is helpful, please cite our paper. Thank you.
 
 ```
-@article{fang2020revealing,
-  title={Revealing Structural and Functional Vulnerability of Power Grids to Cascading Failures},
-  author={Fang, Junyuan and Wu, Jiajing and Zheng, Zibin and Tse, Chi K.},
-  journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems},
-  year={2020},
-  publisher={IEEE}
-}
+@ARTICLE{9235529,
+  author={J. {Fang} and J. {Wu} and Z. {Zheng} and C. K. {Tse}},
+  journal={IEEE Journal on Emerging and Selected Topics in Circuits and Systems}, 
+  title={Revealing Structural and Functional Vulnerability of Power Grids to Cascading Failures}, 
+  year={2021},
+  volume={11},
+  number={1},
+  pages={133-143},
+  doi={10.1109/JETCAS.2020.3033066}}
 ```
