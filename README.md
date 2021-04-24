@@ -47,6 +47,9 @@ python risk_graph.py
 - **risk_graph.py**: implements the risk-graph method.
 - **sinobject_ga.py**:  implements the single-objective genetic algorithm.
 
+## Slides
+The introduction slides can be found [here](https://github.com/alexfanjn/multi-objective-attack-power-grid/blob/master/Slides_Revealing%20Structural%20and%20Functional%20Vulnerability%20of%20Power%20Grids%20to%20Cascading%20Failures.pptx).
+
 
 ## Cite
 For the details, you can take a look at the [paper](https://ieeexplore.ieee.org/abstract/document/9235529).  
